@@ -1,6 +1,9 @@
 # EURO 2024
 
-portugal = ['Diego Costa 22','Pepe 3','Bruno Fernandes`8','Cristiano Ronaldo 7']
+portugal = ['Diego Costa 22',
+            'Pepe 3',
+            'Bruno Fernandes`8',
+            'Cristiano Ronaldo 7']
 print(portugal)
  #Selecting Capitan, .....
 capitan = portugal.pop(3)
@@ -17,4 +20,3 @@ print("Capitan of team -> " + capitan)
 print("Goalkeeper of team -> " + goalkeeper)
 
 print("Substution: \nB.Fernandes 8`(-)\nB.Silva(+) 10")
-print(portugal)
